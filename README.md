@@ -1,4 +1,4 @@
 👋 Hi, I’m @geduld
 
-🌱 I’m a Junior PHP Developer & FiveM Developer
+💻 I’m a Junior PHP Developer & FiveM hobbyist 
 
