@@ -1,6 +1,6 @@
 <h2>👋 Hi, I’m @geduld </h2>
 
-<h2> 💻 I’m a Junior PHP Developer & FiveM hobbyist </h2>
+<h1> 💻 I’m a Junior PHP Developer & FiveM hobbyist </h1>
 
 <h2> Languages and Tools: </h2>
 <p>
