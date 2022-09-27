@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm @geduld</h1>
-<h3 align="center">I’m a PHP Developer</h3>
+<h3 align="center">I’m a PHP Backend Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"
