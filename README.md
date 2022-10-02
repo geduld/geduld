@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=comic+sans&pause=1000&color=2497F7&width=435&lines=Welcome+to+my+profile!;I'm+a+junior+PHP+Developer;and+a+FiveM+Hobbyist" alt="Typing SVG" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">👨🏻‍💻Technologies and Tools I use:</h2>
 <p align="left"
 <p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a>
@@ -20,7 +20,11 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
 </p>
 
-<h3 align="left">You can reach out to me here:</h3>
+<h2 align="left">📫How to reach me:</2>
+[![Linkedin Badge](https://img.shields.io/badge/-yonnie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yonniekauwenberg//)](https://www.linkedin.com/in/yonniekauwenberg/)
+square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/deskundige/)](https://www.instagram.com/deskundige/)
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=geduld&color=a9a9a9)
