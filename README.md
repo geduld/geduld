@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm @geduld</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2497F7&width=435&lines=Welcome+to+my+profile!;I'm+a+PHP+Developer;and+a+FiveM+Hobbyist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=comic+sans&pause=1000&color=2497F7&width=435&lines=Welcome+to+my+profile!;I'm+a+junior+PHP+Developer;and+a+FiveM+Hobbyist" alt="Typing SVG" /></a>
+![](https://komarev.com/ghpvc/?username=geduld&color=a9a9a9&style=for-the-badge)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"
