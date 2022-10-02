@@ -21,7 +21,7 @@
 </p>
 
 <h2 align="left">📫How to reach me:</2>
-[![Linkedin Badge](https://img.shields.io/badge/-yonnie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yonniekauwenberg//)](https://www.linkedin.com/in/yonniekauwenberg/)
+[![Linkedin Badge](https://img.shields.io/badge/-yonniekauwenberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yonniekauwenberg//)](https://www.linkedin.com/in/yonniekauwenberg/)
 square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/deskundige/)](https://www.instagram.com/deskundige/)
 
 
