@@ -23,8 +23,8 @@
 <h2>How to reach me:</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/yonniekauwenberg"><img alt="LinkedIn" title="LinkedIn" height="35" width="70" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/deskundige"><img alt="Instagram" title="Instagram" height="35" width="70" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yonniekauwenberg"><img alt="LinkedIn" title="LinkedIn" height="35" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/deskundige"><img alt="Instagram" title="Instagram" height="35" width="90" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <h2></h2>
