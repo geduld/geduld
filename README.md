@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=comic+sans&pause=1000&color=2497F7&width=435&lines=Welcome+to+my+profile!;I'm+a+junior+PHP+Developer;and+a+FiveM+Hobbyist" alt="Typing SVG" /></a>
 
 
-<h2 align="left">👨🏻‍💻Languages and Tools I use:</h2>
+<h2 align="left"Languages and Tools I use:</h2>
 <p align="left"
 <p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a>
