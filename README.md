@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm @geduld</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AC80F7&width=435&lines=Welcome+to+my+profile!;PHP+Developer;FiveM+Hobbyist" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2497F7&width=435&lines=Welcome+to+my+profile!;I'm+a+PHP+Developer;and+a+FiveM+Hobbyist" alt="Typing SVG" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"
