@@ -5,7 +5,7 @@
 
 <h2> Languages and Tools I use:</h2>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,laravel,tailwindcss,lua,git,vscode&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,laravel,tailwindcss,lua,git,vscode&theme=light)
 
 <h2>How to reach me:</h2>
 
