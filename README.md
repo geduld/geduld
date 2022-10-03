@@ -22,9 +22,8 @@
 
 <h2>How to reach me:</h2>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonniekauwenberg)
-<a href="https://www.instagram.com/deskundige"><img alt="Instagram" title="Instagram" height="20" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/deskundige)
 
 <h2></h2>
 
