@@ -9,7 +9,6 @@
 
 <h2>How to reach me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonniekauwenberg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/deskundige)
 
 
