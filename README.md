@@ -7,9 +7,6 @@
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql,laravel,tailwindcss,lua,git&theme=dark)
 
-<h2>How to reach me:</h2>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/deskundige)
 
 
 
