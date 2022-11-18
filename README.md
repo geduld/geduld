@@ -18,8 +18,3 @@ I'm a Back-End developer from The Netherlands.
 - 🎶 I listen to music 24/7, You won't see me without my spotify playing
 - 📫 How to reach me: Instagram - @deskundige
 
-## 
-
- ![LinkedIn](https://img.shields.io/badge/linkedin/in/yonniekauwenberg.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-##
