@@ -11,7 +11,7 @@
 ### WHAT BROUGHT ME TO GITHUB ?
 ##
 
-I'm a Back-End developer from The Netherlands
+I'm a Junior Back-End developer from The Netherlands.
 
 - 📉 I’m currently working on fullstack web applications
 - 💻 I’m currently learning Laravel (TALL stack)
