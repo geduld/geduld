@@ -13,7 +13,7 @@
 
 I'm a Junior Back-End developer from The Netherlands.
 
-- 📈 I’m currently working on small projects in my free time to gain more language fluency
+- 📈 I’m currently working on fun projects in my free time to gain more language fluency
 - 💻 I’m currently learning Laravel (TALL stack)
 - 🎶 I listen to music 24/7, You won't see me without my spotify playing
 - 📫 How to reach me: Instagram - @deskundige
